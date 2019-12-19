@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 DOCKER_IMAGE=pvormste/php-ci
-PHP_VERSION=7.4.0
+PHP_VERSION=7.4.1
 PHP_MINOR_VERSION=${PHP_VERSION%.*}
 
 # Build
